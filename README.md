@@ -10,7 +10,7 @@
 
 <p> En la part A.1 vam decidir tot el grup fer l'opció 2 que consistia en crear un petit programa amb el llenguatge que nosaltres volguéssim i que introduís directament les dades 
 dels clients i la relació d'aquests amb les reserves a la base de dades. D'aquesta part es van encarregar l'Àlex i en Manel. Nosaltres vam escollir fer el programa amb java perquè és el llenguatge que més dominem. 
-Els fitxers s'anomenen "trabajo" i "Random".</p>
+Els fitxers s'anomenen _________NOMBRES DEL LOS FITXEROS!!____________</p>
 <p>Primer de tot per poder introduir les dades dels clients a la nostra base de dades vam haver de crear la taula Clients que no estava creada i li vam afegir una clau forana
 del camp pais_origen_id relacionant-lo amb la taula països. També vam haver de crear una clau forana de client_id a la taula reserves per poder relacionar els clients amb les seves reserves. 
 Aquí us deixem una captura de com vam crear la taula clients.</p>
@@ -29,7 +29,7 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
 
 <h2>Part A.2 - Sentències SQL</h2>
 
-<p>En la Part A.2 havíem de fer les sentències demanades en el qüestionari. D'aquesta part se'n va encarregar en Manel. El fitxer amb totes les sentències demanades s'anomena PartA2ProjecteUF2M02.</p>
+<p>En la Part A.2 havíem de fer les sentències demanades en el qüestionari. D'aquesta part se'n va encarregar en Manel i en Jaime. El fitxer amb totes les sentències demanades s'anomena PartA2ProjecteUF2M02.</p>
 
 <h2>Part B.1 – Incorporació restaurants i geocalització</h2>
 
@@ -39,4 +39,6 @@ Provincies que no estava creada a la nostra base de dades i vam crear una clau f
 
 ![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DE LA TAULA PROVINCIES!!
 
-<p>Vam modificar la taula Hotels per poder afegir els camps 
+<p>En la tercera part vam realitzar les sentències SQL demanades. Vam utilitzar el JSON per introduir els restaurants i hotels al HTML. Us deixem aqui una captura.</p>
+
+![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DEL JSON!!
