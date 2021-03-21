@@ -1,9 +1,8 @@
 # TreballM2
-# TreballM2
 <h1>Grup 3</h1>
 <ul>
 	<li>Àlex Grabulosa Puertas 46286811R</li>
-	<li>Jaime Solà _____ 46721650W</li>
+	<li>Jaime Solà Ceada 46721650W</li>
 	<li>Manel Colàs Casals 458323339D</li>
 </ul>
 
