@@ -33,14 +33,15 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
 
 <h2>Part B.1 – Incorporació restaurants i geocalització</h2>
 
-<p>En la Part B.1 havím d'introduir a la nostra base de dades cinc restaurants i hotels de Catalunya guardant la seva localització i geolocalització. D'aquesta part es van encarregar en Jaime i l'Àlex.</p>
-<p>Vam crear la taula Restaurants que no estava creada a la nostra base de dades i li vam afegir una clau forana de poblacio_id per poder realiconar cada restaurant amb la seva població. Vam crear també la taula
-Provincies que no estava creada a la nostra base de dades i vam crear una clau forana a la taula Poblacions amb el camp provincia_id per poder relacionar cada població amb la seva pronvincia. Us deixem una captura de com vam crear la taula Provincies.</p>
+<p>En la Part B.1 havíem d'introduir a la nostra base de dades set restaurants i cinc hotels de Catalunya guardant la seva localització i geolocalització. D'aquesta part es van encarregar en Jaime i l'Àlex.</p>
+<p>Vam crear la taula Restaurants que no estava creada a la nostra base de dades i li vam afegir una clau forana de poblacio_id per poder relacionar cada restaurant amb la seva població. Vam crear també la taula Provincies que no estava creada a la nostra base de dades i vam crear una clau forana a la taula Poblacions amb el camp provincia_id per poder relacionar cada població amb la seva pronvíncia. Us deixem una captura de com vam crear la taula Provincies.</p>
 
 ![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Taula%20Provincies.jpeg)
 
-<p>En la tercera part vam realitzar les sentències SQL demanades. Vam utilitzar el JSON per introduir els restaurants i hotels al HTML. Us deixem aqui una captura.</p>
+<p>En la tercera part vam realitzar les sentències SQL demanades. Vam utilitzar el JSON per introduir els restaurants i hotels al HTML. Us deixem aquí una captura.</p>
 
 ![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Exemple%20JSON.jpeg)
 
-<p>
+<p>Perquè en el mapa sortís el cercle hem hagut d'afegir aquest script. Us deixem aquí la captura.</p>
+
+![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Circle.jpeg)
