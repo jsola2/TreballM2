@@ -15,7 +15,7 @@ Els fitxers s'anomenen "trabajo" i "Random".</p>
 del camp pais_origen_id relacionant-lo amb la taula països. També vam haver de crear una clau forana de client_id a la taula reserves per poder relacionar els clients amb les seves reserves. 
 Aquí us deixem una captura de com vam crear la taula clients.</p>
 
-![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DE LA TAULA CLIENTS!!
+![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Taula%20Clients.jpeg)
 
 <p>El nostre primer programa primer realitza la connexió al nostre SGBD amb la IP, el nostre usuari i contrasenya. Després llegeix l'excel anomenat dades_clients-tab i introdueix cada fila en un array.
 Després divideix aquest array en diferents posicions dintre del array amb les dades que ens interessa introduir client_id, nom, cognom1, sexe, data_naixement i pais_origen_id. També hem fet
@@ -37,8 +37,10 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
 <p>Vam crear la taula Restaurants que no estava creada a la nostra base de dades i li vam afegir una clau forana de poblacio_id per poder realiconar cada restaurant amb la seva població. Vam crear també la taula
 Provincies que no estava creada a la nostra base de dades i vam crear una clau forana a la taula Poblacions amb el camp provincia_id per poder relacionar cada població amb la seva pronvincia. Us deixem una captura de com vam crear la taula Provincies.</p>
 
-![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DE LA TAULA PROVINCIES!!
+![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Taula%20Provincies.jpeg)
 
 <p>En la tercera part vam realitzar les sentències SQL demanades. Vam utilitzar el JSON per introduir els restaurants i hotels al HTML. Us deixem aqui una captura.</p>
 
-![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DEL JSON!!
+![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Exemple%20JSON.jpeg)
+
+<p>
