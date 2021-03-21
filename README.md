@@ -10,7 +10,7 @@
 
 <p> En la part A.1 vam decidir tot el grup fer l'opció 2 que consistia en crear un petit programa amb el llenguatge que nosaltres volguéssim i que introduís directament les dades 
 dels clients i la relació d'aquests amb les reserves a la base de dades. D'aquesta part es van encarregar l'Àlex i en Manel. Nosaltres vam escollir fer el programa amb java perquè és el llenguatge que més dominem. 
-Els fitxers s'anomenen "trabajo" i "Random" i es troven a la carpeta "PartA.1 Programes JAVA".</p>
+Els fitxers s'anomenen "trabajo" i "Random".</p>
 <p>Primer de tot per poder introduir les dades dels clients a la nostra base de dades vam haver de crear la taula Clients que no estava creada i li vam afegir una clau forana
 del camp pais_origen_id relacionant-lo amb la taula països. També vam haver de crear una clau forana de client_id a la taula reserves per poder relacionar els clients amb les seves reserves. 
 Aquí us deixem una captura de com vam crear la taula clients.</p>
@@ -42,6 +42,13 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
 
 ![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Exemple%20JSON.jpeg)
 
-<p>Perquè en el mapa sortís el cercle hem hagut d'afegir aquest script. Us deixem aquí la captura.</p>
+<p>Perquè en el mapa sortís el cercle hem hagut d'afegir aquest script a on vam introduïr la longitud i la latitud per què ens indiques com a punt 
+   central l'institut Sapalomera. Us deixem aquí la captura.</p>
 
 ![alt text](https://github.com/jsola2/TreballM2/blob/master/Imatges%20Readme/Circle.jpeg)
+
+<p>Com a última cosa que ens demanava l'enunciat, era fer una senténcia sql a on indicariem la longitud i la latitud d'un lloc en un radi de 'X' kilometres o metres, i et
+   donés com a resultat els restaurants i hotels que estan en aquest radi i punt del mapa.</p>
+   
+ ![sentecia km](https://user-images.githubusercontent.com/74617905/111913002-73de9480-8a6c-11eb-9d17-1e263f3e464b.png)
+
