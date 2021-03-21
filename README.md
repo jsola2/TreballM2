@@ -29,10 +29,14 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
 
 <h2>Part A.2 - Sentències SQL</h2>
 
-<p>En la Part A.2 havíem de fer les sentències demanades en el qüestionari. D'aquesta part se'n va encarregar en Manel. El fitxer amb totes les sentències demanades s'anomena PartA2ProjecteUF2M02</p>
+<p>En la Part A.2 havíem de fer les sentències demanades en el qüestionari. D'aquesta part se'n va encarregar en Manel. El fitxer amb totes les sentències demanades s'anomena PartA2ProjecteUF2M02.</p>
 
 <h2>Part B.1 – Incorporació restaurants i geocalització</h2>
 
 <p>En la Part B.1 havím d'introduir a la nostra base de dades cinc restaurants i hotels de Catalunya guardant la seva localització i geolocalització. D'aquesta part es van encarregar en Jaime i l'Àlex.</p>
 <p>Vam crear la taula Restaurants que no estava creada a la nostra base de dades i li vam afegir una clau forana de poblacio_id per poder realiconar cada restaurant amb la seva població. Vam crear també la taula
-Provincies que no estava creada a la nostra base de dades. Us deixem una captura de com vam crear la taula Provincies</p>
+Provincies que no estava creada a la nostra base de dades i vam crear una clau forana a la taula Poblacions amb el camp provincia_id per poder relacionar cada població amb la seva pronvincia. Us deixem una captura de com vam crear la taula Provincies.</p>
+
+![alt text](URL DE LA IMAGEN AL GITHUB) FOTO DE LA TAULA PROVINCIES!!
+
+<p>Vam modificar la taula Hotels per poder afegir els camps 
