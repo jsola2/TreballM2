@@ -51,4 +51,6 @@ introdueix un client_id per cada reserva_id utilitzant un WHERE per les reserves
    donés com a resultat els restaurants i hotels que estan en aquest radi i punt del mapa.</p>
    
  ![sentecia km](https://user-images.githubusercontent.com/74617905/111913002-73de9480-8a6c-11eb-9d17-1e263f3e464b.png)
+ 
+ <p>Àlex Grabolusa Puertas, Jaime Solà Ceada i Manel Colàs Casals - Projecte UF2 - M02 Base de dades</p>
 
