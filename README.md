@@ -10,7 +10,7 @@
 
 <p> En la part A.1 vam decidir tot el grup fer l'opció 2 que consistia en crear un petit programa amb el llenguatge que nosaltres volguéssim i que introduís directament les dades 
 dels clients i la relació d'aquests amb les reserves a la base de dades. D'aquesta part es van encarregar l'Àlex i en Manel. Nosaltres vam escollir fer el programa amb java perquè és el llenguatge que més dominem. 
-Els fitxers s'anomenen _________NOMBRES DEL LOS FITXEROS!!____________</p>
+Els fitxers s'anomenen "trabajo" i "Random"</p>
 <p>Primer de tot per poder introduir les dades dels clients a la nostra base de dades vam haver de crear la taula Clients que no estava creada i li vam afegir una clau forana
 del camp pais_origen_id relacionant-lo amb la taula països. També vam haver de crear una clau forana de client_id a la taula reserves per poder relacionar els clients amb les seves reserves. 
 Aquí us deixem una captura de com vam crear la taula clients.</p>
