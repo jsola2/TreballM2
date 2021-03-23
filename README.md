@@ -3,7 +3,7 @@
 <ul>
 	<li>Àlex Grabulosa Puertas 46286811R</li>
 	<li>Jaime Solà Ceada 46721650W</li>
-	<li>Manel Colàs Casals 458323339D</li>
+	<li>Manel Colàs Casals 45832339D</li>
 </ul>
 
 <h2>Part A.1 - Importació de clients</h2>
